@@ -1,0 +1,33 @@
+{
+  "name": "softpack-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmilad/softpack-helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmilad/softpack-helper/issues"
+  },
+  "homepage": "https://github.com/mmilad/softpack-helper#readme",
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "handlebars": "^4.0.11",
+    "node-sass": "^4.7.2",
+    "postcss": "^6.0.19",
+    "postcss-cli": "^5.0.0",
+    "postcss-js": "^1.0.1"
+  },
+  "devDependencies": {
+    "softpack": "^0.1.0"
+  }
+}
